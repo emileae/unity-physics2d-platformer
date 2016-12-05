@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9A2DE987-241D-6C21-6130-8AF9A6B0E4B4}") = "Physics Character Controller", "Assembly-CSharp.csproj", "{71090675-66D6-A965-8C70-BD3663357BCA}"
+EndProject
+Project("{9A2DE987-241D-6C21-6130-8AF9A6B0E4B4}") = "Physics Character Controller", "Assembly-CSharp-Editor.csproj", "{7401183F-1E77-1FBE-2359-55DB5F1045BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71090675-66D6-A965-8C70-BD3663357BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71090675-66D6-A965-8C70-BD3663357BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71090675-66D6-A965-8C70-BD3663357BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71090675-66D6-A965-8C70-BD3663357BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7401183F-1E77-1FBE-2359-55DB5F1045BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7401183F-1E77-1FBE-2359-55DB5F1045BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7401183F-1E77-1FBE-2359-55DB5F1045BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7401183F-1E77-1FBE-2359-55DB5F1045BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
